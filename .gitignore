@@ -1,0 +1,22 @@
+# Build artifacts
+/build/
+/sdkconfig
+/sdkconfig.old
+
+# IDF generated files
+*.log
+*.elf
+*.bin
+*.map
+*.o
+*.d
+
+# Backup files / temp
+*.swp
+*.tmp
+*~
+
+# VSCode / editors
+.vscode/
+.idea/
+
